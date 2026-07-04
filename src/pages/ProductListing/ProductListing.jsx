@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getProducts } from "../../services/ProductService";
+import { getProducts } from "../../services/productService";
 import ProductDetail from "../ProductDetail/ProductDetails";
 import ProductCard from "../../components/ProductCard/ProductCard";
 import styles from "../../styles/ProductListing.module.scss";
