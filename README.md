@@ -1,7 +1,7 @@
 # Nua Store
 
 ## Live Demo
-[url ](https://nua-store-beige.vercel.app/)
+(https://nua-store-beige.vercel.app/)
 
 
 ## Tech Stack
